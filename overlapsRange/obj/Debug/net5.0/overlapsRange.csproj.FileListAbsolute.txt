@@ -1,0 +1,15 @@
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/overlapsRange.deps.json
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/overlapsRange.runtimeconfig.json
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/overlapsRange.runtimeconfig.dev.json
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/overlapsRange.dll
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/ref/overlapsRange.dll
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/bin/Debug/net5.0/overlapsRange.pdb
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.csprojAssemblyReference.cache
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.AssemblyInfoInputs.cache
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.AssemblyInfo.cs
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.csproj.CoreCompileInputs.cache
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.dll
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/ref/overlapsRange.dll
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.pdb
+/Users/jeffreygrassals/Projects/overlapsRange/overlapsRange/obj/Debug/net5.0/overlapsRange.genruntimeconfig.cache
