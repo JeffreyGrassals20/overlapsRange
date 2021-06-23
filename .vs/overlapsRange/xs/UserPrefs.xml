@@ -1,32 +1,26 @@
 ﻿<Properties StartupConfiguration="{AAEA13EE-A28F-42D8-A8D4-55685A0700B1}|Default">
   <MonoDevelop.Ide.ItemProperties.overlapsRange PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="overlapsRange/range.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="overlapsRange/RangeC.cs">
     <Files>
-      <File FileName="overlapsRange/Program.cs" Line="11" Column="67" />
-      <File FileName="overlapsRange/overlapRange.cs" Line="22" Column="13" />
-      <File FileName="tests/UnitTest1.cs" Line="31" Column="25" />
-      <File FileName="overlapsRange/range.cs" Line="11" Column="1" />
+      <File FileName="tests/UnitTest1.cs" Line="18" Column="1" />
+      <File FileName="overlapsRange/RangeC.cs" Line="52" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="overlapsRange" expanded="True">
             <Node name="overlapsRange" expanded="True">
-              <Node name="range.cs" selected="True" />
+              <Node name="RangeC.cs" selected="True" />
             </Node>
-            <Node name="tests" expanded="True" />
+            <Node name="tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="overlapsRange" expanded="True" selected="True">
-            <Node name="tests" expanded="True">
-              <Node name="tests" expanded="True">
-                <Node name="Tests" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="overlapsRange" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
